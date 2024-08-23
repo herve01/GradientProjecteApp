@@ -1,0 +1,32 @@
+c:\users\kayembe\documents\visual studio 2010\Projects\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.Form1.resources
+c:\users\kayembe\documents\visual studio 2010\Projects\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.Properties.Resources.resources
+c:\users\kayembe\documents\visual studio 2010\Projects\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.csproj.GenerateResource.Cache
+c:\users\kayembe\documents\visual studio 2010\Projects\TpRaoGradienProjecte\TpRaoGradienProjecte\bin\Debug\TpRaoGradienProjecte.exe
+c:\users\kayembe\documents\visual studio 2010\Projects\TpRaoGradienProjecte\TpRaoGradienProjecte\bin\Debug\TpRaoGradienProjecte.pdb
+c:\users\kayembe\documents\visual studio 2010\Projects\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.exe
+c:\users\kayembe\documents\visual studio 2010\Projects\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.pdb
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.exe
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.pdb
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\bin\Debug\TpRaoGradienProjecte.exe
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\bin\Debug\TpRaoGradienProjecte.pdb
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.Form1.resources
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.Properties.Resources.resources
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.csproj.GenerateResource.Cache
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.Form_Trace_Algo.resources
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.PointDepart.resources
+D:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.csprojResolveAssemblyReference.cache
+F:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.exe
+F:\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.pdb
+L:\Dossier Herve\D\ProjetInformatique\Mes projet Csharp\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.pdb
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\bin\Debug\TpRaoGradienProjecte.exe.config
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\bin\Debug\TpRaoGradienProjecte.exe
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\bin\Debug\TpRaoGradienProjecte.pdb
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.csproj.AssemblyReference.cache
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.Form1.resources
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.Form_Trace_Algo.resources
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.PointDepart.resources
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.Properties.Resources.resources
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.csproj.GenerateResource.cache
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.csproj.CoreCompileInputs.cache
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.exe
+C:\Users\kayembe\Music\TpRaoGradienProjecte\TpRaoGradienProjecte\obj\x86\Debug\TpRaoGradienProjecte.pdb

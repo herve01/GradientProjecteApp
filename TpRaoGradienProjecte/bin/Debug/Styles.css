@@ -1,0 +1,83 @@
+﻿   body
+   {
+    
+   }
+
+   table
+   {
+     border: 1px solid silver;
+     border-collapse: collapse;
+     margin-left: 50px;
+     margin-top: -15px;
+     max-width: 100%;
+   }
+
+   tr, td, th 
+   {
+     border : 1px solid silver;  
+   }
+
+   .phase
+   {
+     background: #e8e8ec;
+     color : black;
+     font-weight : bold;
+     font-size : 25px; 
+	 
+     
+    }
+
+    #text
+    {
+      text-align: Left; 
+      font-size: 18px;  
+      font-family: Segoe UI; 
+    }
+
+    #textZ
+    {
+      text-align: Left; 
+      font-size: 25px;  
+      font-family: Segoe UI; 
+    }
+
+    #idEntete
+     {
+        background: #e8e8ec;
+        text-align: Center; 
+        font-size: 30px; 
+        font-family: Segoe UI; 
+    }
+
+    .err
+    {
+       color : red; 
+       font-size : 20px;
+    }
+
+    .valide
+    {
+        color : green; 
+       font-size : 20px;
+    }
+    
+    #MTitle
+    {
+       background: #4c4c4f; 
+       height: 35px; 
+       text-align: Center; 
+       width: 75px; 
+       color : white; 
+       font-size: 16px; 
+       font-family: Segoe UI; 
+    }
+
+    #contrainte
+    {
+       background: #4c4c4f; 
+       height: 35px; 
+       text-align: Center; 
+       color : white; 
+       font-size: 25px; 
+       font-family: Segoe UI; 
+    }
